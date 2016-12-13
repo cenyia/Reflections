@@ -3,3 +3,9 @@ What happens when you initialize a repository? Why do you need to do it?
     When you initialize a repository, a git file is created for the process of sending commits up to git hub.
     This needs to be done in order to keep create the foundations for commits, keep track of changes to and the creation
     of files related to the repository.
+
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+    The staging area acts as a hub for changes to repository files that have yet to be committed.  This allows for the
+    user to pick which changes they would like to commit at any time of their choosing.

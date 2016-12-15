@@ -9,3 +9,17 @@ How is the staging area different from the working directory and the repository?
 
     The staging area acts as a hub for changes to repository files that have yet to be committed.  This allows for the
     user to pick which changes they would like to commit at any time of their choosing.
+
+
+How can you use the staging area to make sure you have one commit per logical change?
+    You can do this by sending a file(s) to the staging area that are only related to the logical change.
+    You can also check to make sure they are the correct files by using the git status command.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+    Branches help be allowing the user to test features and ideas separate from the master. It can also help the user
+    when they find an issue with the original master branch which would help them with making the proper adjustments
+    to all the other branches created from the master.
+
+How do the diagrams help you visualize the branch structure?
+    They help visualize the branch structure by allowing me to see the history of commits and branches.  And helps me
+    to understand where I may need to create new branches.
